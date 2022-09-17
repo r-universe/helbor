@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "wpm"]
-	path = wpm
-	url = https://github.com/helbor/wpm
-	shallow = true
-	registered = true
